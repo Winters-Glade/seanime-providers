@@ -1,0 +1,15 @@
+{
+    "id": "animetoki",
+    "name": "AnimeToki",
+    "description": "AnimeToki online streaming provider for Seanime — watch episodes from animetoki.com",
+    "manifestURI": "https://raw.githubusercontent.com/Winters-Glade/seanime-providers/main/src/anime/animetoki/manifest.json",
+    "version": "0.1.0",
+    "author": "Winters-Glade",
+    "type": "onlinestream-provider",
+    "language": "typescript",
+    "lang": "en",
+    "icon": "https://animetoki.com/favicon.ico",
+    "website": "https://animetoki.com",
+    "notes": "Supports ongoing anime episodes with English subtitles and dual audio. Completed series (batch downloads only) are not supported for individual episode streaming.",
+    "payloadURI": "https://raw.githubusercontent.com/Winters-Glade/seanime-providers/main/src/anime/animetoki/provider.ts"
+}
